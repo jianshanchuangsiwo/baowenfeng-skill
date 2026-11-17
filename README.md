@@ -19,16 +19,16 @@
 # baowenfeng-skill
 我的班主任skill，用这个skill让你的chatAI与你进行雷霆的对话.....（吓哭了）
 - [下载方式](#下载方式)
-- [**使用教程**](#使用教程)
+- [**使用**](#使用)
 - [查看文件](#查看文件)
 
-## markdown文件
+## skill.md
 
 由[nuwa-skill](https://github.com/alchaincyf/nuwa-skill "感谢花叔")蒸馏制作
 
 感谢bilibili「花叔」
 
-## （笑了）
+##  😄（笑了）
 - 欢迎大家来与我的班主任聊天，他是一个很好的人（也许吧....）
 - 发布npm包遇到了一点小问题，几经周折终于发布成功了
 - 点击[npm](https://www.npmjs.com/login?next=/login/cli/b275b745-d892-49d0-a609-599d1e0f4b36)
@@ -51,7 +51,7 @@
 
 ---
 
-# 使用教程
+## 使用
 
  **npm安装之后，`/`会自动加载出这个skill**
  - 好像有一点问题，有些ai不会加载出来
@@ -78,7 +78,7 @@ npx baowenfeng
 ```
 ---
 
-# 查看文件
+## 查看文件
 - 查看[SKILL](鲍文锋skill.md)
 - 查看[npm包](baowenfeng-perspective)
 
