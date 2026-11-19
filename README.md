@@ -27,7 +27,7 @@
 
 由[nuwa-skill](https://github.com/alchaincyf/nuwa-skill "感谢花叔")蒸馏制作
 
-感谢bilibili「花叔」
+感谢bilibili[「花叔」](https://b23.tv/L78cCAu)
 
 ##  😄（笑了）
 - 欢迎大家来与我的班主任聊天，他是一个很好的人（也许吧....）
